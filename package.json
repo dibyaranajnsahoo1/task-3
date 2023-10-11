@@ -1,0 +1,19 @@
+{
+  "name": "task-3",
+  "version": "1.0.0",
+  "description": "crud operations",
+  "main": "index.js",
+  "engines": {
+    "node": "18.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Dibya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  }
+}
